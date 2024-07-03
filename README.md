@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhang
 - 👀 I’m interested in public speaking and programing
-- 🌱 I’m currently trying to learn the basics of c.
+- 🌱 I’m currently trying to learn the basics of c++.
 - 💞️ I’m looking to improve my skills and want to contribute to the community.
 - 📫 find me on linkedin www.linkedin.com/in/shubhang-sharma-930b1a304
 - 😄 Pronouns: he/him
